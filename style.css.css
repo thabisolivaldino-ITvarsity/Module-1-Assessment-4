@@ -1,0 +1,24 @@
+table{
+    width: 480px;
+    font-weight: 800;
+    background-color: aquamarine
+        border-width: 1px;
+    border-style: solid;
+    border-color:aquamarine;
+       
+}
+h1{
+    background-color: cadetblue
+}
+tr:{
+    background-color: #fff;
+}        
+tr:nth-child(odd){
+   background-color: chartreuse 
+}    
+th,td{
+    padding: 10px
+}
+tr{
+    caption-side: top
+}
